@@ -1,6 +1,6 @@
 # Beyond Testing: Symbolic Execution Augmented Selection for LLM-Generated Code
 
-**Submitted to ASE 2025**
+**Submitted to FSE 2026**
 
 This repository contains the code and data for our paper:  
 **"Beyond Testing: Symbolic Execution Augmented Selection for LLM-Generated Code"**
