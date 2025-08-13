@@ -9,7 +9,7 @@ Our method augments traditional test-based selection with **symbolic execution**
 
 ---
 
-## 🔧 Project Structure
+## Project Structure
 
 ```
 .
